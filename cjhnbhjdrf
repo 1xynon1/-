@@ -25,3 +25,6 @@ int main() {
     return 0;
 }
 //сортировка код
+
+
+setlocale(LC_ALL, "Russian");
